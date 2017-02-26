@@ -1,0 +1,8 @@
+title: Learn
+description: learn technology set
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
